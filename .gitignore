@@ -2,7 +2,7 @@
 /env
 /best model
 /notebooks.zip
-/rebuild/results
+/rebuild
 __pycache__/
 *.pyc
 /py
