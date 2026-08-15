@@ -1,0 +1,25 @@
+# EEG signal processing
+mne 
+plotly
+
+# Core libraries for numerical computing and data manipulation
+numpy
+pandas
+scipy
+
+# Data visualization
+matplotlib
+seaborn
+
+# Machine Learning utilities
+scikit-learn
+tensorflow
+
+# Jupyter Notebook environment
+jupyter
+
+# Progress bar utility for loops
+tqdm
+
+# Logging and training visualization
+tensorboard

@@ -1,3 +1,12 @@
 /data
 /env
-/models
+/best model
+/notebooks.zip
+/rebuild/results
+__pycache__/
+*.pyc
+/py
+/notebooks/**
+!/notebooks/**/
+!/notebooks/**/*.ipynb
+
